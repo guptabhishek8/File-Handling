@@ -36,16 +36,3 @@ for i in f:
         h=f.readline()
 print("Longest name",h)
     
-
-'''
-
-b=0
-c=0
-f=open("names.txt","rt")
-for x in f:
-    c= f.readline(1)
-    if (c == "A"or"a"or"E"or"e"or"I"or "i"or"O"or"o"or"u"or"U") :
-        b=b+1
-print(b)'''
-
-    
